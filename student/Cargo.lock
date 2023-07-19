@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "student_system"
+name = "student"
 version = "0.1.0"
